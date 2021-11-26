@@ -1,0 +1,21 @@
+﻿  lab6.cpp
+W:\GL\lab6\lab6.cpp(51,71): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+W:\GL\lab6\lab6.cpp(51,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+W:\GL\lab6\lab6.cpp(52,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+W:\GL\lab6\lab6.cpp(52,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+W:\GL\lab6\lab6.cpp(52,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+W:\GL\lab6\lab6.cpp(73,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+W:\GL\lab6\lab6.cpp(74,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+W:\GL\lab6\lab6.cpp(74,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+W:\GL\lab6\lab6.cpp(75,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+W:\GL\lab6\lab6.cpp(76,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+W:\GL\lab6\lab6.cpp(76,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+W:\GL\lab6\lab6.cpp(77,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+W:\GL\lab6\lab6.cpp(78,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+W:\GL\lab6\lab6.cpp(78,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+W:\GL\lab6\lab6.cpp(78,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+W:\GL\lab6\lab6.cpp(79,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+W:\GL\lab6\lab6.cpp(80,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+W:\GL\lab6\lab6.cpp(80,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+W:\GL\lab6\lab6.cpp(80,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  lab6.vcxproj -> W:\GL\lab6\Debug\lab6.exe
